@@ -1,0 +1,19 @@
+# Log e backup
+*.log
+Uninstaller_*.log
+Uninstaller_CLI_*.log
+RegistryBackups_*/
+
+# File temporanei
+*.tmp
+*.zip
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
